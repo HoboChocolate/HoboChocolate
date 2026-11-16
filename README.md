@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**HoboChocolate/HoboChocolate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there! 👋
 
 I’m currently diving into **Python**, taking a slow and steady approach to modern programming. I have a classic background in **CBASIC** alongside early **HTML and JavaScript**, and I'm enjoying bridging those foundational logic skills with modern tools.
